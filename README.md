@@ -1,1 +1,1 @@
-# Cstarterkit.github.io
+# c-starter-kit
